@@ -1,0 +1,1 @@
+@C:\Users\GiteshJawale\Documents\GJ\FinanceLifeOS\.crypto-scaffold\vitest.config.ts
